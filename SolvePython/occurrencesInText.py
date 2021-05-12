@@ -32,3 +32,5 @@ for word in a:
 print("Word -> Number of appearances")
 for key,value in myDict.items():
     print('{:<11s}{:>6d}'.format(key,value))
+
+#
